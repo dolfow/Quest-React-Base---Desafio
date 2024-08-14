@@ -1,8 +1,6 @@
-# React + Vite
+##Quest React Base - Desafio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Quest 1 - O objetivo é trocar a cor e colocar o parágrafo em maiusculo.
 
-Currently, two official plugins are available:
+Quest 2 - O objetivo é enviar uma mensagem ao clicar no botão.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
